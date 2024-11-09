@@ -1,0 +1,50 @@
+body {
+    background-image: url("shootingStar.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Roboto', serif;
+    text-align: center;
+    height: 100vh;
+}
+
+.container {
+    background: whitesmoke;
+    max-width: 75%;
+    margin: auto;
+    border: 3px solid rgb(24, 6, 6);
+    border-radius: 9px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid rgb(24, 6, 6);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: black;
+    font-weight: bold;
+    width: 240px;
+    margin-bottom: 6px;
+    border-radius: 6px;
+}
+
+#increment-btn {
+    background: blueviolet;
+}
+
+#save-btn {
+    background: green;
+}
+
+#save-el {
+    font-weight: bold;
+}
+
